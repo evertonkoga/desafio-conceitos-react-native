@@ -15,6 +15,8 @@ Neste desafio foi criado um app em React Native integrando via axios com projeto
 $ yarn install 
 ou
 $ npm install
+- Caso use simulador iOS execute o camando abaixo dentro da pasta ios
+$ pod install
 
 - Executar o projeto Android
 $ react-native run-android
